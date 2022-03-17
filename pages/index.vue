@@ -194,6 +194,7 @@
         </swiper>
       </client-only>
     </div>
+    <NuxtFooter />
   </div>
 </template>
 

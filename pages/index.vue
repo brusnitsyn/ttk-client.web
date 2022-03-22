@@ -28,7 +28,7 @@
                 Новое поступление запчастей для техники «АЛМАЗ»
               </h1>
               <a href="" class="text-accent md:text-xl font-semibold"
-                >Подробнее</a
+                >ПОДРОБНЕЕ</a
               >
             </div>
           </div>
@@ -59,7 +59,7 @@
                 Новое поступление запчастей для техники «АЛМАЗ»
               </h1>
               <a href="" class="text-accent md:text-xl font-semibold"
-                >Подробнее</a
+                >ПОДРОБНЕЕ</a
               >
             </div>
           </div>
@@ -90,7 +90,7 @@
                 Новое поступление запчастей для техники «АЛМАЗ»
               </h1>
               <a href="" class="text-accent md:text-xl font-semibold"
-                >Подробнее</a
+                >ПОДРОБНЕЕ</a
               >
             </div>
           </div>

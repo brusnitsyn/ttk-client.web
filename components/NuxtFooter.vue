@@ -10,11 +10,32 @@
             type="email"
             name="email"
             id="email"
-            class="w-full py-3 bg-accent border-b outline-none placeholder-white border-white active:border-dark focus:border-dark"
+            class="
+              w-full
+              py-3
+              bg-accent
+              border-b
+              outline-none
+              placeholder-white
+              border-white
+              active:border-dark
+              focus:border-dark
+            "
             placeholder="adress@domain.ru"
           />
           <button
-            class="absolute right-0 top-0 flex justify-end items-center h-full w-1/4 text-white hover:text-dark"
+            class="
+              absolute
+              right-0
+              top-0
+              flex
+              justify-end
+              items-center
+              h-full
+              w-1/4
+              text-white
+              hover:text-dark
+            "
           >
             <svg
               width="16"

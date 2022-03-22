@@ -7,10 +7,23 @@
           <div class="relative">
             <img src="/img/test.jpg" alt="" class="rounded-lg" />
             <div
-              class="absolute left-4 bottom-4 max-w-xs md:left-16 md:bottom-14 md:max-w-xl"
+              class="
+                absolute
+                left-4
+                bottom-4
+                max-w-xs
+                md:left-16 md:bottom-14 md:max-w-xl
+              "
             >
               <h1
-                class="text-white text-lg md:text-3xl pb-1 font-bold uppercase md:pb-2.5"
+                class="
+                  text-white text-lg
+                  md:text-3xl
+                  pb-1
+                  font-bold
+                  uppercase
+                  md:pb-2.5
+                "
               >
                 Новое поступление запчастей для техники «АЛМАЗ»
               </h1>
@@ -25,10 +38,23 @@
           <div class="relative">
             <img src="/img/test.jpg" alt="" class="rounded-lg" />
             <div
-              class="absolute left-4 bottom-4 max-w-xs md:left-16 md:bottom-14 md:max-w-xl"
+              class="
+                absolute
+                left-4
+                bottom-4
+                max-w-xs
+                md:left-16 md:bottom-14 md:max-w-xl
+              "
             >
               <h1
-                class="text-white text-lg md:text-3xl pb-1 font-bold uppercase md:pb-2.5"
+                class="
+                  text-white text-lg
+                  md:text-3xl
+                  pb-1
+                  font-bold
+                  uppercase
+                  md:pb-2.5
+                "
               >
                 Новое поступление запчастей для техники «АЛМАЗ»
               </h1>
@@ -43,10 +69,23 @@
           <div class="relative">
             <img src="/img/test.jpg" alt="" class="rounded-lg" />
             <div
-              class="absolute left-4 bottom-4 max-w-xs md:left-16 md:bottom-14 md:max-w-xl"
+              class="
+                absolute
+                left-4
+                bottom-4
+                max-w-xs
+                md:left-16 md:bottom-14 md:max-w-xl
+              "
             >
               <h1
-                class="text-white text-lg md:text-3xl pb-1 font-bold uppercase md:pb-2.5"
+                class="
+                  text-white text-lg
+                  md:text-3xl
+                  pb-1
+                  font-bold
+                  uppercase
+                  md:pb-2.5
+                "
               >
                 Новое поступление запчастей для техники «АЛМАЗ»
               </h1>
@@ -65,7 +104,14 @@
         <swiper :options="actualOrdersSwiperOptions" class="">
           <swiper-slide>
             <div
-              class="p-4 border border-[#D3D3D3] hover:bg-accent transition-colors delay-75 rounded-lg"
+              class="
+                p-4
+                border border-[#D3D3D3]
+                hover:bg-accent
+                transition-colors
+                delay-75
+                rounded-lg
+              "
             >
               <a href="">
                 <div class="flex flex-col gap-y-8 items-center">
@@ -90,7 +136,14 @@
 
           <swiper-slide>
             <div
-              class="p-4 border border-[#D3D3D3] hover:bg-accent transition-colors delay-75 rounded-lg"
+              class="
+                p-4
+                border border-[#D3D3D3]
+                hover:bg-accent
+                transition-colors
+                delay-75
+                rounded-lg
+              "
             >
               <a href="">
                 <div class="flex flex-col gap-y-8 items-center">
@@ -115,7 +168,14 @@
 
           <swiper-slide>
             <div
-              class="p-4 border border-[#D3D3D3] hover:bg-accent transition-colors delay-75 rounded-lg"
+              class="
+                p-4
+                border border-[#D3D3D3]
+                hover:bg-accent
+                transition-colors
+                delay-75
+                rounded-lg
+              "
             >
               <a href="">
                 <div class="flex flex-col gap-y-8 items-center">
@@ -140,7 +200,14 @@
 
           <swiper-slide>
             <div
-              class="p-4 border border-[#D3D3D3] hover:bg-accent transition-colors delay-75 rounded-lg"
+              class="
+                p-4
+                border border-[#D3D3D3]
+                hover:bg-accent
+                transition-colors
+                delay-75
+                rounded-lg
+              "
             >
               <a href="">
                 <div class="flex flex-col gap-y-8 items-center">
@@ -165,7 +232,14 @@
 
           <swiper-slide>
             <div
-              class="p-4 border border-[#D3D3D3] hover:bg-accent transition-colors delay-75 rounded-lg"
+              class="
+                p-4
+                border border-[#D3D3D3]
+                hover:bg-accent
+                transition-colors
+                delay-75
+                rounded-lg
+              "
             >
               <a href="">
                 <div class="flex flex-col gap-y-8 items-center">

@@ -23,6 +23,7 @@
                   font-bold
                   uppercase
                   md:pb-2.5
+                  select-none
                 "
               >
                 Новое поступление запчастей для техники «АЛМАЗ»
@@ -54,6 +55,7 @@
                   font-bold
                   uppercase
                   md:pb-2.5
+                  select-none
                 "
               >
                 Новое поступление запчастей для техники «АЛМАЗ»
@@ -85,6 +87,7 @@
                   font-bold
                   uppercase
                   md:pb-2.5
+                  select-none
                 "
               >
                 Новое поступление запчастей для техники «АЛМАЗ»

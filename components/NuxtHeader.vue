@@ -13,7 +13,7 @@
         </nav>
       </div>
       <div class="flex">
-        <a href="" class="px-4 py-3 bg-accent">Отправить заявку</a>
+        <a href="" class="px-4 py-3 bg-accent rounded-lg">Отправить заявку</a>
       </div>
     </div>
   </header>

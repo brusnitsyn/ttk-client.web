@@ -3,10 +3,9 @@
     <NuxtHeader class="sticky top-0 z-20" />
     <client-only>
       <swiper :options="heroSwiperOptions">
-
         <swiper-slide>
           <div class="relative">
-            <img src="/img/test.jpg" alt="" />
+            <img src="/img/test.jpg" alt="" class="rounded-lg" />
             <div
               class="absolute left-4 bottom-4 max-w-xs md:left-16 md:bottom-14 md:max-w-xl"
             >
@@ -24,7 +23,7 @@
 
         <swiper-slide>
           <div class="relative">
-            <img src="/img/test.jpg" alt="" />
+            <img src="/img/test.jpg" alt="" class="rounded-lg" />
             <div
               class="absolute left-4 bottom-4 max-w-xs md:left-16 md:bottom-14 md:max-w-xl"
             >
@@ -42,7 +41,7 @@
 
         <swiper-slide>
           <div class="relative">
-            <img src="/img/test.jpg" alt="" />
+            <img src="/img/test.jpg" alt="" class="rounded-lg" />
             <div
               class="absolute left-4 bottom-4 max-w-xs md:left-16 md:bottom-14 md:max-w-xl"
             >
@@ -57,7 +56,6 @@
             </div>
           </div>
         </swiper-slide>
-
       </swiper>
     </client-only>
     <div class="pt-4 px-4 xl:px-0">
@@ -65,10 +63,9 @@
 
       <client-only>
         <swiper :options="actualOrdersSwiperOptions" class="">
-
           <swiper-slide>
             <div
-              class="p-4 border border-[#D3D3D3] hover:bg-accent transition-colors delay-75"
+              class="p-4 border border-[#D3D3D3] hover:bg-accent transition-colors delay-75 rounded-lg"
             >
               <a href="">
                 <div class="flex flex-col gap-y-8 items-center">
@@ -93,7 +90,7 @@
 
           <swiper-slide>
             <div
-              class="p-4 border border-[#D3D3D3] hover:bg-accent transition-colors delay-75"
+              class="p-4 border border-[#D3D3D3] hover:bg-accent transition-colors delay-75 rounded-lg"
             >
               <a href="">
                 <div class="flex flex-col gap-y-8 items-center">
@@ -118,7 +115,7 @@
 
           <swiper-slide>
             <div
-              class="p-4 border border-[#D3D3D3] hover:bg-accent transition-colors delay-75"
+              class="p-4 border border-[#D3D3D3] hover:bg-accent transition-colors delay-75 rounded-lg"
             >
               <a href="">
                 <div class="flex flex-col gap-y-8 items-center">
@@ -143,7 +140,7 @@
 
           <swiper-slide>
             <div
-              class="p-4 border border-[#D3D3D3] hover:bg-accent transition-colors delay-75"
+              class="p-4 border border-[#D3D3D3] hover:bg-accent transition-colors delay-75 rounded-lg"
             >
               <a href="">
                 <div class="flex flex-col gap-y-8 items-center">
@@ -168,7 +165,7 @@
 
           <swiper-slide>
             <div
-              class="p-4 border border-[#D3D3D3] hover:bg-accent transition-colors delay-75"
+              class="p-4 border border-[#D3D3D3] hover:bg-accent transition-colors delay-75 rounded-lg"
             >
               <a href="">
                 <div class="flex flex-col gap-y-8 items-center">
@@ -190,10 +187,10 @@
               </a>
             </div>
           </swiper-slide>
-
         </swiper>
       </client-only>
     </div>
+    <NuxtFooter />
   </div>
 </template>
 

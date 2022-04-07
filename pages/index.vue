@@ -1,6 +1,5 @@
 <template>
-  <div class="container mx-auto max-w-7xl text-dark">
-    <NuxtHeader class="sticky top-0 z-20" />
+  <div class="">
     <client-only>
       <swiper :options="heroSwiperOptions">
         <swiper-slide>
@@ -267,13 +266,13 @@
         </swiper>
       </client-only>
     </div>
-    <NuxtFooter />
   </div>
 </template>
 
 <script>
 export default {
   name: "IndexPage",
+  layout: "general",
   data() {
     return {
       heroSwiperOptions: {
